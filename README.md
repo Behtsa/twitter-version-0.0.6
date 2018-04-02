@@ -30,4 +30,8 @@ _All of this requierements were succesfully completed._
 
 ***
 
-## Preview
+### Preview
+
+![twitter](https://user-images.githubusercontent.com/9289461/38186798-62544844-361a-11e8-97e0-34b7abf265aa.png)
+
+
