@@ -26,7 +26,7 @@ Twitter Basic Functionality with Javascript. _Replicating newsfeed section_.
 
 - Add the time the tweet was published. In the 24 hour format: hh: mm ..
 
-_All of this requierements was succesfully completed._
+_All of this requierements were succesfully completed._
 
 ***
 
